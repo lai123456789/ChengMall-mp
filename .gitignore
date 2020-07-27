@@ -1,0 +1,10 @@
+node_modules
+dist
+.idea
+.DS_Store
+.idea
+.wepycache
+package.json
+project.config.json
+src/common/js/config.js
+
